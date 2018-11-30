@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Create bot func using google docs information to sending  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlibMukol/bot.git"
+  },
+  "author": "gray.grifon@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlibMukol/bot/issues"
+  },
+  "homepage": "https://github.com/GlibMukol/bot#readme"
+}
